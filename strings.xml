@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">हिंदी वीडियो अनुवादक</string>
+    <string name="app_name_en">Hindi Video Translator</string>
+    <string name="select_video">वीडियो चुनें</string>
+    <string name="translate_hindi">हिंदी में अनुवाद करें</string>
+    <string name="hindi_subtitles">हिंदी उपशीर्षक</string>
+    <string name="hindi_dubbed_audio">हिंदी डब ऑडियो</string>
+    <string name="original_audio">मूल ऑडियो</string>
+</resources>
